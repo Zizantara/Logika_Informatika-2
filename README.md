@@ -180,5 +180,3 @@ Baris ini memastikan fungsi `main()` dieksekusi ketika program dijalankan langsu
      - Subtotal: Rp 43.000
      - Diskon (10%): Rp 4.300
      - Total akhir: Rp 38.700
-
-Program ini dirancang dengan prinsip modularitas dan penanganan error yang baik, sehingga mudah dipahami dan digunakan.
